@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-*{
+form,label,input,button{
 	padding:5px;
 	margin:5px;
 }
